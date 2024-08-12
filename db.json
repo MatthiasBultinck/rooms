@@ -1,10 +1,10 @@
 {
     "Roomtype": [
-        {"name": "Single", "description": "A cozy single room with a comfortable bed", "price": 50.0, "image": "https://example.com/single-room.jpg"},
-        {"name": "Single Deluxe", "description": "A luxurious single room with a comfortable bed and extra amenities", "price": 60.0, "image": "https://example.com/single-deluxe-room.jpg"},
-        {"name": "Double", "description": "A spacious double room with two comfortable beds", "price": 70.0, "image": "https://example.com/double-room.jpg"},
-        {"name": "Double Deluxe", "description": "A luxurious double room with two comfortable beds and extra amenities", "price": 80.0, "image": "https://example.com/double-deluxe-room.jpg"},
-        {"name": "Family", "description": "A spacious family room that can accommodate up to 5 people", "price": 90.0, "image": "https://example.com/family-room.jpg"}
+        {"name": "Single", "description": "A cozy single room with a comfortable bed", "price": 50.0, "image": "Foto door Donald Tong op Pexels: https://www.pexels.com/nl-nl/foto/witte-beddengoedhoes-naast-bruine-houten-bijzettafel-189293/"},
+        {"name": "Single Deluxe", "description": "A luxurious single room with a comfortable bed and extra amenities", "price": 60.0, "image": "Foto door Pixabay op Pexels: https://www.pexels.com/nl-nl/foto/laptop-op-tafel-271619/"},
+        {"name": "Double", "description": "A spacious double room with two comfortable beds", "price": 70.0, "image": "Foto door Zak Chapman op Pexels: https://www.pexels.com/nl-nl/foto/twee-eenpersoonsbedden-in-goed-verlichte-kamer-2029722/"},
+        {"name": "Double Deluxe", "description": "A luxurious double room with two comfortable beds and extra amenities", "price": 80.0, "image": "Foto door Pixabay op Pexels: https://www.pexels.com/nl-nl/foto/zwarte-en-grijze-sprei-op-bed-en-kussen-164595/"},
+        {"name": "Family", "description": "A spacious family room that can accommodate up to 5 people", "price": 90.0, "image": "Foto door Pixabay op Pexels: https://www.pexels.com/nl-nl/foto/gestoffeerd-bed-nabij-kast-262048/"}
     ],
     "room": [
         {"type": "Single", "available": true, "price": 50.0, "people": 1},
