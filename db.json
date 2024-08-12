@@ -1,10 +1,10 @@
 {
     "Roomtype": [
-        {"name": "Single", "description": "A cozy single room with a comfortable bed", "price": 50.0},
-        {"name": "Single Deluxe", "description": "A luxurious single room with a comfortable bed and extra amenities", "price": 60.0},
-        {"name": "Double", "description": "A spacious double room with two comfortable beds", "price": 70.0},
-        {"name": "Double Deluxe", "description": "A luxurious double room with two comfortable beds and extra amenities", "price": 80.0},
-        {"name": "Family", "description": "A spacious family room that can accommodate up to 5 people", "price": 90.0}
+        {"name": "Single", "description": "A cozy single room with a comfortable bed", "price": 50.0, "image": "https://example.com/single-room.jpg"},
+        {"name": "Single Deluxe", "description": "A luxurious single room with a comfortable bed and extra amenities", "price": 60.0, "image": "https://example.com/single-deluxe-room.jpg"},
+        {"name": "Double", "description": "A spacious double room with two comfortable beds", "price": 70.0, "image": "https://example.com/double-room.jpg"},
+        {"name": "Double Deluxe", "description": "A luxurious double room with two comfortable beds and extra amenities", "price": 80.0, "image": "https://example.com/double-deluxe-room.jpg"},
+        {"name": "Family", "description": "A spacious family room that can accommodate up to 5 people", "price": 90.0, "image": "https://example.com/family-room.jpg"}
     ],
     "room": [
         {"type": "Single", "available": true, "price": 50.0, "people": 1},
