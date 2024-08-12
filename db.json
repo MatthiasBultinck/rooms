@@ -1,0 +1,25 @@
+{
+    "Roomtype": [
+        {"name": "Single", "description": "A cozy single room with a comfortable bed", "price": 50.0},
+        {"name": "Single Deluxe", "description": "A luxurious single room with a comfortable bed and extra amenities", "price": 60.0},
+        {"name": "Double", "description": "A spacious double room with two comfortable beds", "price": 70.0},
+        {"name": "Double Deluxe", "description": "A luxurious double room with two comfortable beds and extra amenities", "price": 80.0},
+        {"name": "Family", "description": "A spacious family room that can accommodate up to 5 people", "price": 90.0}
+    ],
+    "room": [
+        {"type": "Single", "available": true, "price": 50.0, "people": 1},
+        {"type": "Single", "available": false, "price": 50.0, "people": 1},
+        {"type": "Single", "available": false, "price": 50.0, "people": 1},
+        {"type": "Single", "available": true, "price": 50.0, "people": 1},
+        {"type": "Single Deluxe", "available": true, "price": 60.0, "people": 1},
+        {"type": "Single Deluxe", "available": false, "price": 60.0, "people": 1},
+        {"type": "Single Deluxe", "available": false, "price": 60.0, "people": 1},
+        {"type": "Double", "available": false, "price": 70.0, "people": 2},
+        {"type": "Double", "available": false, "price": 70.0, "people": 2},
+        {"type": "Double", "available": false, "price": 70.0, "people": 2},
+        {"type": "Double", "available": true, "price": 70.0, "people": 2},
+        {"type": "Double Deluxe", "available": true, "price": 80.0, "people": 3},
+        {"type": "Double Deluxe", "available": false, "price": 80.0, "people": 3},
+        {"type": "Family", "available": true, "price": 90.0, "people": 5}
+    ]
+}
